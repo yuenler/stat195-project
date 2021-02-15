@@ -9,9 +9,9 @@ The goal of this paper is to build and compare methods for the prediction of the
 
 All data used in this article have been kindly provided to the authors by the Greek Organization of Football Prognostics (OPAP). 
 Due to confidentiality reasons, we cannot publicly provide access to the actual data-set of this study. 
-For this reason, we provide the code and an alternative data-set obtained via scrapping to the Git repository \url{https://github.com/lampis-tzai/Predictions-of-European-Basketball-Match-Results-with-Machine-Learning-Algorithms/} of the article. 
-More specifically, in the Git repository you can find two sets of code and files: one referring to the paper implementation (with no data available) and a second one with an implementation to the crawled data obtained by \url{https://www.basketball-reference.com/}. 
+For this reason, we provide the code and an alternative data-set obtained via scrapping to the Git repository https://github.com/lampis-tzai/Predictions-of-European-Basketball-Match-Results-with-Machine-Learning-Algorithms/ of the article. 
+More specifically, in the Git repository you can find two sets of code and files: one referring to the paper implementation (with no data available) and a second one with an implementation to the crawled data obtained by https://www.basketball-reference.com/. 
 For the crawled data-set we obtained results from  eight tournaments including the ones presented in this work (Greek league, Liga ACB, Euroleague and Eurocup) for a period of five years: 2014/10/04-2020/06/30.  
-The Git repository \url{https://github.com/lampis-tzai/Predictions-of-European-Basketball-Match-Results-with-Machine-Learning-Algorithms/} contains data, along with Python code and Jupyter notebooks for the pre-processing of the data and for the tuning of the hyper-parameters for all algorithms. 
+The Git repository https://github.com/lampis-tzai/Predictions-of-European-Basketball-Match-Results-with-Machine-Learning-Algorithms/ contains data, along with Python code and Jupyter notebooks for the pre-processing of the data and for the tuning of the hyper-parameters for all algorithms. 
 Moreover, two main modelling approaches have been implemented: one with  Baseline Vanilla Model and a second one using the Full Information Model. 
 For the analyses with the publicly available data, we have specified the training data-set by considering results from four seasons (2014--2018) while season 2018/19 was used for evaluating the prediction efficiency of the methods.  
