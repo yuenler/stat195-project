@@ -5,7 +5,7 @@ The goal of this paper was to build and compare methods for the prediction of th
     Finally, we present the  most important features by counting the percentage  of appearance in every machine learning algorithm for every of three analyses and we discuss difficulties and anomalies in the predictions. 
     
     
-# DATA AND CODE
+## DATA AND CODE
 
 All data used in this article have been kindly provided to the authors by the Greek Organization of Football Prognostics (OPAP). 
 Due to confidentiality reasons, we cannot publicly provide access to the actual data-set of this study. 
